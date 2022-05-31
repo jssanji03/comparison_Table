@@ -1,18 +1,3 @@
-.custom_primary {
-  color: #437FC7;
-}
-
-.print_btn {
-  background-color: #505c62;
-  color: #FFF;
-}
-
-.print_btn:hover {
-  background-color: #FFF;
-  color: #505c62;
-  border: 1px solid #505c62;
-}
-
 .content .nav-link {
   margin-right: 5px;
   background-color: #e1e9f1;
