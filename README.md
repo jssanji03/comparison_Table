@@ -1,4 +1,4 @@
-# [Demo](https://jssanji03.github.io/EtherWan_Demo/pages/examples/profile.html)
+# [Demo](https://jssanji03.github.io/comparison_Table/pages/examples/product%20_v2.html)
 
 ## 使用方式
 <img src="https://github.com/jssanji03/comparison_Table/blob/main/demo.png">
